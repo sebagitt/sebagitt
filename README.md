@@ -8,6 +8,7 @@ Pipelines ELT, modélisation analytique, ML supervisé, dashboards BI : le tout 
 
 
 🌍 **Basé à :** Nantes, France (Ouvert aux alentours et en remote)
+
 📫 **Me contacter :** [[Email](mailto:guitton.sebastien@gmail.com)] | [[LinkedIn](https://www.linkedin.com/in/sebguitton/?locale=fr-FR)]
 
 
@@ -37,7 +38,7 @@ Pipelines ELT, modélisation analytique, ML supervisé, dashboards BI : le tout 
 | **[P10 Dashboard ONG eau](Lien_vers_le_repo_P10)** | Tableau de bord interactif Power BI sur l'accès mondial à l'eau potable, optimisé pour l'accessibilité et le storytelling visuel. | `Power BI`, `DAX`, `Power Query`, `Miro` |
 | **[P9 Prevision ventes librairie](Lien_vers_le_repo_P9)** | Analyse statistique et modèle de prévision (Forecasting) pour anticiper le chiffre d'affaires et la saisonnalité d'une librairie. | `Python`, `Pandas`, `SciPy`, `Statsmodels`, `Plotly` |
 | **[P6 Analyse ventes ecommerce](Lien_vers_le_repo_P6)** | Analyse exploratoire pour réconcilier des sources de données hétérogènes et modéliser les leviers de marge d'un e-commerce de vins | `Python`, `Pandas`, `SciPy`, `Plotly`, `Scikit-Learn` |
-"| **[P5 Architecture BDD Immobilière](Lien_vers_le_repo_P5)** | Conception d'un schéma relationnel 3NF from scratch et création d'un pipeline ETL pur SQL respectant les normes RGPD. | `PostgreSQL`, `Modélisation 3NF` |
+| **[P5 Architecture BDD Immobilière](Lien_vers_le_repo_P5)** | Conception d'un schéma relationnel 3NF from scratch et création d'un pipeline ETL pur SQL respectant les normes RGPD. | `PostgreSQL`, `Modélisation 3NF` |
 
 ---
 

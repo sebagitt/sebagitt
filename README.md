@@ -31,14 +31,14 @@ Pipelines ELT, modélisation analytique, ML supervisé, dashboards BI : le tout 
 | Projet | Description | Stack Principale |
 |---|---|---|
 | **[P13 Refonte Analytics Engineering](https://github.com/sebagitt/P13_Bottleneck_refonte)** | Pipeline dbt + DuckDB pour e-commerce : 713 produits analysés, 90 orphelins détectés, 13 data contracts. | `dbt`, `DuckDB`, `OLS`, `SHAP`, `CI/CD` |
-| **[P8 Pipeline Sociodemographique](Lien_vers_le_repo_P8)** | Mise en place et automatisation d'un Pipeline ELT (dbt + Snowflake) de l'ingestion à la création de 4 Datamarts audités et documentés. | `dbt`, `Snowflake`, `SQL` |
-| **[P12 Détection de contrefaçons via ML](Lien_vers_le_repo_P12)** | Algorithme de Machine Learning (XGBoost, K-Means, validation croisée) packagé et déployé dans une interface web métier. | `Python`, `Scikit-Learn`, `Streamlit` |
-| **[P11 Étude de marché internationale via Clustering](Lien_vers_le_repo_P12)** | Clustering ML non supervisé (PCA, K-Means) pour segmenter et cibler les marchés d'exportation d'une marque agroalimentaire. | `Python`, `Scikit-Learn`, `Pandas`, `UV`, `Git` |
-| **[P7 Modélisation & Dashboarding B2B](Lien_vers_le_repo_P7)** | Tableau de bord interactif Power BI sur l'accès mondial à l'eau potable, optimisé pour l'accessibilité et le storytelling visuel. | `Power BI`, `DAX`, `Power Query` |
-| **[P10 Dashboard ONG eau](Lien_vers_le_repo_P10)** | Tableau de bord interactif Power BI sur l'accès mondial à l'eau potable, optimisé pour l'accessibilité et le storytelling visuel. | `Power BI`, `DAX`, `Power Query`, `Miro` |
-| **[P9 Prevision ventes librairie](Lien_vers_le_repo_P9)** | Analyse statistique et modèle de prévision (Forecasting) pour anticiper le chiffre d'affaires et la saisonnalité d'une librairie. | `Python`, `Pandas`, `SciPy`, `Statsmodels`, `Plotly` |
-| **[P6 Analyse ventes ecommerce](Lien_vers_le_repo_P6)** | Analyse exploratoire pour réconcilier des sources de données hétérogènes et modéliser les leviers de marge d'un e-commerce de vins | `Python`, `Pandas`, `SciPy`, `Plotly`, `Scikit-Learn` |
-| **[P5 Architecture BDD Immobilière](Lien_vers_le_repo_P5)** | Conception d'un schéma relationnel 3NF from scratch et création d'un pipeline ETL pur SQL respectant les normes RGPD. | `PostgreSQL`, `Modélisation 3NF` |
+| **[P8 Pipeline Sociodemographique](https://github.com/sebagitt/P8-pipeline-sociodemographique)** | Mise en place et automatisation d'un Pipeline ELT (dbt + Snowflake) de l'ingestion à la création de 4 Datamarts audités et documentés. | `dbt`, `Snowflake`, `SQL` |
+| **[P12 Détection de contrefaçons via ML](https://github.com/sebagitt/P12-detection-faux-billets)** | Algorithme de Machine Learning (XGBoost, K-Means, validation croisée) packagé et déployé dans une interface web métier. | `Python`, `Scikit-Learn`, `Streamlit` |
+| **[P11 Étude de marché internationale via Clustering](https://github.com/sebagitt/P11-etude-marche-export)** | Clustering ML non supervisé (PCA, K-Means) pour segmenter et cibler les marchés d'exportation d'une marque agroalimentaire. | `Python`, `Scikit-Learn`, `Pandas`, `UV`, `Git` |
+| **[P7 Modélisation & Dashboarding B2B]** | Tableau de bord interactif Power BI sur l'accès mondial à l'eau potable, optimisé pour l'accessibilité et le storytelling visuel. | `Power BI`, `DAX`, `Power Query` |
+| **[P10 Dashboard ONG eau]()** | Tableau de bord interactif Power BI sur l'accès mondial à l'eau potable, optimisé pour l'accessibilité et le storytelling visuel. | `Power BI`, `DAX`, `Power Query`, `Miro` |
+| **[P9 Prevision ventes librairie]()** | Analyse statistique et modèle de prévision (Forecasting) pour anticiper le chiffre d'affaires et la saisonnalité d'une librairie. | `Python`, `Pandas`, `SciPy`, `Statsmodels`, `Plotly` |
+| **[P6 Analyse ventes ecommerce]()** | Analyse exploratoire pour réconcilier des sources de données hétérogènes et modéliser les leviers de marge d'un e-commerce de vins | `Python`, `Pandas`, `SciPy`, `Plotly`, `Scikit-Learn` |
+| **[P5 Architecture BDD Immobilière]()** | Conception d'un schéma relationnel 3NF from scratch et création d'un pipeline ETL pur SQL respectant les normes RGPD. | `PostgreSQL`, `Modélisation 3NF` |
 
 ---
 

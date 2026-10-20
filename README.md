@@ -27,6 +27,7 @@ Pipelines ELT, modélisation analytique, ML supervisé, dashboards BI -> documen
 
 | Projet | Description | Stack Principale |
 |---|---|---|
+| [EnergiScope PDL](https://github.com/sebagitt/energiscope-pdl) | Pipeline Analytics Engineering sur la consommation électrique industrielle en Pays de la Loire. Architecture médaillon Bronze / Silver / Gold, 4 sources open data (149 000 lignes RTE eco2mix, Enedis, INSEE, Banque de France), 9 modèles dbt, 100 tests, orchestration Airflow (Docker), CI/CD GitHub Actions, dashboard Power BI. Taux de couverture EnR mesuré à 28,8 % sur 2018-2026. |`SQL` `Python` `dbt` `Databricks` `Airflow` `Docker` `Power BI` |
 | **[Pipeline analytics e-commerce](https://github.com/sebagitt/ecommerce-analytics-pipeline)** | Pipeline dbt + DuckDB pour e-commerce : 713 produits analysés, 90 orphelins détectés, 13 data contracts. | `dbt`, `DuckDB`, `OLS`, `SHAP`, `CI/CD` |
 | **[Pipeline Sociodemographique](https://github.com/sebagitt/pipeline-sociodemographique)** | Mise en place et automatisation d'un Pipeline ELT (dbt + Snowflake) de l'ingestion à la création de 4 Datamarts audités et documentés. | `dbt`, `Snowflake`, `SQL` |
 | **[Détection de contrefaçons via ML](https://github.com/sebagitt/detection-faux-billets)** | Algorithme de Machine Learning (XGBoost, Random Forest, Régression logistique, validation croisée avec GridSearchCV) packagé et déployé dans une interface web métier. | `Python`, `Scikit-Learn`, `Streamlit` |
